@@ -1,3 +1,7 @@
+> [!WARNING]
+> **Deprecated — superseded.** This repository is archived and no longer maintained.
+> Its work is being absorbed into [agentkeys](https://github.com/agentsec-ecosystem/agentkeys) as part of the [agentsec-ecosystem](https://github.com/agentsec-ecosystem).
+
 # MCPlex
 
 [![CI](https://github.com/deghosal-2026/mcplex/actions/workflows/ci.yml/badge.svg)](.github/workflows/ci.yml)
